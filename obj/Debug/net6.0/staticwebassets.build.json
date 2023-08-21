@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NuKDM9uhudTvWhlFXbQ5bcLcWXOYmS+C9h8BGaaFbNM=",
+  "Source": "AzureCosmosApiForTable",
+  "BasePath": "_content/AzureCosmosApiForTable",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
